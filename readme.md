@@ -1,4 +1,4 @@
-# ResearchMind 🔬
+# ResearchMind 
 
 A multi-agent AI research pipeline built with LangChain. Four specialized agents work in sequence — searching, scraping, writing, and critiquing — to turn a single topic into a polished, sourced research report.
 
